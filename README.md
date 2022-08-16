@@ -2,7 +2,7 @@
 
 Maratona de 7 dias cheia de aulas assíncronas sobre Git, GitHub, HTML e CSS, e Soft Skills.
 
-![image](https://user-images.githubusercontent.com/97315490/184978743-8a74b6a8-481f-4bbf-aa70-097bbfc59214.png)
+![image](https://user-images.githubusercontent.com/97315490/184987683-ae1c7843-a95a-4bdd-a459-b0753fc6b3c8.png)
 
 📌 Dia 1 | 19:00 Apresentaremos o layout e criaremos sua primeira conta Github Pages, para você hospedar seu código online
 
